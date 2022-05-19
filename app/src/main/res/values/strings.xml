@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoMaps1</string>
+    <string name="title_activity_lugares_turisticos_cusco">LugaresTuristicosCusco</string>
+    <string name="title_activity_maravillas_antiguas">MaravillasAntiguas</string>
+    <string name="title_activity_maravillas_modernas">MaravillasModernas</string>
+    <string name="title_activity_maps_rutas">MapsRutas</string>
+</resources>
